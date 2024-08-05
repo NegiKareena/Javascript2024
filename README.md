@@ -1,4 +1,5 @@
 Introduction
+
 SightRelax is a browser extension designed to encourage healthier screen time habits by assisting users in adhering to the 20-20-20 rule. Featuring customizable options and an intuitive interface, SightRelax is a valuable tool for anyone looking to improve their computer usage and reduce eye strain.
 
 Purpose and Vision
