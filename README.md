@@ -11,19 +11,19 @@ Recognizing the difficulty of remembering to take these breaks, I developed Sigh
 
 To configure the local project environment, please follow these steps:
 
-**1** Clone the repository by executing the following command:
+**1.** Clone the repository by executing the following command:
 
        git clone https://github.com/NegiKareena/SightRelax.git
 
-**2** Open the Chrome browser and navigate to chrome://extensions/.
+**2.** Open the Chrome browser and navigate to chrome://extensions/.
 
-**3** Enable "Developer mode" by toggling the switch at the top right corner.
+**3.** Enable "Developer mode" by toggling the switch at the top right corner.
 
-**4** Click on the "Load unpacked" button.
+**4.** Click on the "Load unpacked" button.
 
 Select the folder containing the cloned repository to load the extension and begin setup.
 
-**Contribution Guidelines** 🏗
+**Contribution Guidelines** 
 
 **1.** Fork this repository.
 
@@ -53,12 +53,18 @@ Select the folder containing the cloned repository to load the extension and beg
        
 **8.** Perfom your desired changes to the code base.
 
-**9.** Track your changes:heavy_check_mark: .
+**9.** Track your changes:heavy_check_mark: 
+
        git add 
+       
 **10.** Commit your changes .
+
        git commit -m "Relevant message"
+       
 **11.** Push the committed changes in your feature branch to your remote repo.
+
        git push -u origin <your_branch_name>
+       
 **12.** To create a pull request, click on **compare and pull requests**.
 
 **13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
