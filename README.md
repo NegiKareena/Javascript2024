@@ -25,40 +25,40 @@ Select the folder containing the cloned repository to load the extension and beg
 
 **Contribution Guidelines** 🏗
 
-Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and make it better. To start contributing, follow the below guidelines:
-
 **1.** Fork this repository.
 
 **2.** Clone your forked copy of the project.
 
- git clone https://github.com/NegiKareena/SightRelax.git
+       git clone https://github.com/NegiKareena/SightRelax.git
  
 **3.** Navigate to the project directory 📁 .
 
-cd SightRelax
+       cd SightRelax
+       
 **4.** Add a reference(remote) to the original repository.
 
-git remote add upstream https://github.com/NegiKareena/SightRelax.git
+       git remote add upstream https://github.com/NegiKareena/SightRelax.git
+       
 **5.** Check the remotes for this repository.
 
-git remote -v
+       git remote -v
+       
 **6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
 
-git pull upstream main
+       git pull upstream main
+       
 **7.** Create a new branch.
 
-git checkout -b <your_branch_name>
+       git checkout -b <your_branch_name>
+       
 **8.** Perfom your desired changes to the code base.
 
 **9.** Track your changes:heavy_check_mark: .
-
-git add . 
+       git add 
 **10.** Commit your changes .
-
-git commit -m "Relevant message"
+       git commit -m "Relevant message"
 **11.** Push the committed changes in your feature branch to your remote repo.
-
-git push -u origin <your_branch_name>
+       git push -u origin <your_branch_name>
 **12.** To create a pull request, click on **compare and pull requests**.
 
 **13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
