@@ -7,6 +7,9 @@ SightRelax is a browser extension designed to encourage healthier screen time ha
 I created SightRelax to address the detrimental effects of prolonged screen time on eye health and overall well-being. Research highlights the benefits of taking frequent short breaks to prevent computer vision syndrome, which can cause dry eyes, headaches, and blurred vision.
 Recognizing the difficulty of remembering to take these breaks, I developed SightRelax as a solution. This browser extension sends a gentle reminder after 20 minutes of continuous computer use, prompting users to pause for 20 seconds and focus on an object 20 feet away. With SightRelax, users can seamlessly integrate healthful practices into their workflow, ensuring both productivity and well-being.
 
+**Tech Stack**
+HTML5 CSS3 JavaScript ChromeExtention
+
 **How to use ?**
 
 To configure the local project environment, please follow these steps:
