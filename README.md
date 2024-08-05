@@ -31,7 +31,7 @@ Select the folder containing the cloned repository to load the extension and beg
 
        git clone https://github.com/NegiKareena/SightRelax.git
  
-**3.** Navigate to the project directory 📁 .
+**3.** Navigate to the project directory .
 
        cd SightRelax
        
