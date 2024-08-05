@@ -71,6 +71,6 @@ Select the folder containing the cloned repository to load the extension and beg
 
 **14.** Click on Create Pull Request.
 
-**15.** Voila ❗ You have made a PR to make this more interesting 💥 . Wait for your submission to be accepted and your PR to be merged.
+
 
 
